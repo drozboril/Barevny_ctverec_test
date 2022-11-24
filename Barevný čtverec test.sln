@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barevný čtverec test", "Barevný čtverec test\Barevný čtverec test.csproj", "{6DBDBA5F-2725-4290-BC15-569D944B79F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DBDBA5F-2725-4290-BC15-569D944B79F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBDBA5F-2725-4290-BC15-569D944B79F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBDBA5F-2725-4290-BC15-569D944B79F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBDBA5F-2725-4290-BC15-569D944B79F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75BEB3B-1AB1-4612-9EB7-3C5DA112B874}
+	EndGlobalSection
+EndGlobal
